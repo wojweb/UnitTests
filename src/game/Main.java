@@ -14,7 +14,7 @@ public class Main {
 
         //deck.sortCards();
         //System.out.println(deck.showCards());
-
+        System.out.println("6 jestem Pawemix.");
 
     }
 }
