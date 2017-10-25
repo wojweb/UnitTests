@@ -1,5 +1,5 @@
 package game;
-
+//Dodalem komentarz, aby wprowadzic pewne zmiany
 public class Main {
     public static void main(String[] args) {
         Deck deck = new Deck(56);
