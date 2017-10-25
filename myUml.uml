@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-18.0" y="320.0">game.Deck</node>
+    <node x="26.5" y="553.0">game.Main</node>
+    <node x="-14.5" y="-39.0">game.Card</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="game.Main" target="game.Deck">
+      <point x="43.0" y="-26.5" />
+      <point x="155.5" y="528.0" />
+      <point x="168.75" y="528.0" />
+      <point x="56.25" y="96.0" />
+    </edge>
+    <edge source="game.Deck" target="game.Card">
+      <point x="-75.0" y="-96.0" />
+      <point x="37.5" y="286.0" />
+      <point x="46.5" y="286.0" />
+      <point x="-66.0" y="130.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="248.0" y="269.0" />
+  <SelectedNodes>
+    <node>game.Card</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
